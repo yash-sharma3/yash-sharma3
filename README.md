@@ -5,11 +5,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-stats.vercel.app/api?username=yash-sharma3&theme=radical&show_icons=true&rank_icon=github" alt="Yash's GitHub Stats" />
-</p>
-
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **AI Task Automation** and **LLM Integration**.
 - ⚡ Fun fact: I built a **J.A.R.V.I.S.** assistant using Python!
