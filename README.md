@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **AI Task Automation**
 - ⚡ Fun fact: I built a **J.A.R.V.I.S.** assistant using Python!
-- 📫 Reach me at: **[Your Email Here]**
+- 📫 Reach me at: **yash.innovater@gmail.com**
 
 ### 🛠 Tech Stack
 | Category | Tools |
