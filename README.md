@@ -41,12 +41,6 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
----
-
-<p align="center">
-  <b>Visitor Count</b><br/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyash-sharma3&count_bg=%233670A0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Total%20Views&edge_flat=false" alt="Visitor Count"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3670A0&height=100&section=footer" width="100%"/>
